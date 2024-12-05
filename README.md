@@ -10,3 +10,5 @@ Here is some test text from Horea L. Teamwork!
 Oooh! I can change this now!!
 
 Third line as a collaborator! - Horea
+
+I can add a comment now! 
