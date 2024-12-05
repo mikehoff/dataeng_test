@@ -8,3 +8,5 @@ A wizard is never late, nor is he early, he arrives precisely when he means to.
 Here is some test text from Horea L. Teamwork!
 
 Oooh! I can change this now!!
+
+Third line as a collaborator! - Horea
